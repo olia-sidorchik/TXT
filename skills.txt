@@ -1,0 +1,2 @@
+skills: using github,gitbush,postman,fiddler and other tools;
+	knowledges in the theory of testing
