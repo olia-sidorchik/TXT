@@ -1,1 +1,9 @@
-
+  Title: Status code 500 when a value in the fild of calculator is more than 978.
+  Steps to reproduce:
+  1.In a field of calculator enter value 1000;
+  2.Press Enter.
+  Expected result: A message is displayed about the impossibility to determine the factorial of this number.
+  Actual result: System doesn't respond, error 500.
+  Environment: macOS version 11.6, Google Chrome version 95.0.4638.54.
+  Priority: Medium.
+  Severity: Minor.
