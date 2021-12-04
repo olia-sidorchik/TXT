@@ -1,0 +1,5 @@
+Name, Surname - Sidorchik Olia
+Age - 31
+Number of pets - 0
+Future start salary - 600$
+
